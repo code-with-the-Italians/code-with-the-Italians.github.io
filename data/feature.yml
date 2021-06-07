@@ -3,15 +3,18 @@ title   : Where to find us?
 item    :
   - icon  : ion-social-youtube
     title : Youtube
+    link: https://youtube.codewiththeitalians.it
     description : >
-      You get all our session recordings on https://youtube.codewiththeitalians.it
+      Our sessions recordings are on
 
   - icon  : ion-social-twitter
     title : Twitter
+    link: https://twitter.codewiththeitalians.it
     description : >
-      Our announcements and interesting retweets from the community at https://twitter.codewiththeitalians.it
+      Our announcements and interesting retweets from the community are on
 
   - icon  : ion-social-twitch
     title : Twitch
+    link: https://twitch.codewiththeitalians.it
     description : >
-      Our live coding session on https://twitch.codewiththeitalians.it
+      Our live coding session are on

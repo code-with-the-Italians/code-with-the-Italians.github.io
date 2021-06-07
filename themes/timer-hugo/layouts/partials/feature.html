@@ -14,12 +14,13 @@
 				<div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
 					<div class="media-left">
 						<div class="icon">
-							{{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+							{{ with . }}<a href="{{ .link }}"><i class="{{ .icon }}"
+																									 style="text-decoration : none; color : #FFFFFF"></i></a>{{ end }}
 						</div>
 					</div>
 					<div class="media-body">
 						{{ with .title }}<h4 class="media-heading">{{ . }}</h4>{{ end }}
-						{{ with .description }}<p>{{ . }}</p>{{ end }}
+						{{ with . }}<p>{{ .description }} <a href="{{ .link }}">here</a>{{ end }}
 					</div>
 				</div>
 			</div>
