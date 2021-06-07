@@ -24,7 +24,7 @@ dateFormat = "6 January 2006"
 description = "We code live on Twitch, learning and sharing as we go"
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "G-6GC9HZ94VP"
 # contact form action
 contactFormAction = "#" # contact form works with https://formspree.io
 
