@@ -1,34 +1,17 @@
 enable  : true
-title   : Offer From Me
-subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+title   : Where to find us?
 item    :
-  - icon  : ion-ios-flask-outline
-    title : Media heading
+  - icon  : ion-social-youtube
+    title : Youtube
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      You get all our session recordings on https://youtube.codewiththeitalians.it
 
-  - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+  - icon  : ion-social-twitter
+    title : Twitter
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Our announcements and interesting retweets from the community at https://twitter.codewiththeitalians.it
 
-  - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+  - icon  : ion-social-twitch
+    title : Twitch
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-
-  - icon  : ion-ios-keypad-outline
-    title : Solid Support
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-
-  - icon  : ion-ios-barcode-outline
-    title : Simple Installation
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-  
-  - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Our live coding session on https://twitch.codewiththeitalians.it

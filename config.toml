@@ -1,6 +1,6 @@
 baseURL = "https://code-with-the-italians.github.io"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Code with the Italians"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -14,22 +14,6 @@ weight  = 1
 name    = "About"
 url     = "about"
 weight  = 2
-[[menu.main]]
-name    = "Service"
-url     = "service"
-weight  = 3
-[[menu.main]]
-name    = "Gallery"
-url     = "gallery"
-weight  = 4
-[[menu.main]]
-name    = "Blog"
-url     = "blog"
-weight  = 5
-[[menu.main]]
-name    = "Contact"
-url     = "contact"
-weight  = 6
 
 # Site Params
 [params]
@@ -48,31 +32,31 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable  = true
 bgImage = "images/slider.jpg"
-heading = "HI, MY NAME IS JONATHON & I AM A"
-description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+heading = "WELCOME TO CODE WITH THE ITALIANS"
+description = "WE BUILD APPS IN THE WILD, STREAMING OUR LIVE CODING SESSIONS ON TWITCH"
 # button
 btn     = true
-btnText = "Download More"
-btnURL  = "https://themefisher.com/"
+btnText = "Watch live"
+btnURL  = "https://twitch.codewiththeitalians.it"
 
 # flip text
 [[params.banner.flipText]]
-title   = "DESIGNER"
+title   = "ANDROID"
 [[params.banner.flipText]]
-title   = "DEVELOPER"
+title   = "COMPOSE"
 [[params.banner.flipText]]
-title   = "FATHER"
+title   = "KOTLIN"
 
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+title   = "Why / What / How"
+content = "We are always looking for new things to learn, share with the community and expand our comfort zone.</br></br>We wanted to dive into Jetpack Compose, learning how it's differnt frome the current Android standard way of building an app.</br></br>We want to make it clear that we are learning as we go so we are streaming our live coding sessions."
 image   = "images/about/about.jpg"
 
 # Call to Action
 [params.cta]
-enable  = true
+enable  = false
 title   = "SO WHAT YOU THINK ?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
 btnText = "Contact with me"
@@ -80,19 +64,23 @@ btnURL  = "/contact"
 
 # Portfolio Section On Homepage
 [params.portfolio]
-enable  = true
-title   = "Latest Works"
-subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+enable  = false
+title   = "Projects"
+subtitle= "What are we working on at the moment and what we did in the past"
 
 # social icon
 [[params.socialIcon]]
-icon = "ion-social-facebook"
-url = "#"
+icon = "ion-social-twitter"
+url = "https://twitter.com/codewiththeita"
 
 [[params.socialIcon]]
-icon = "ion-social-instagram"
-url = "#"
+icon = "ion-social-github"
+url = "https://github.com/rock3r/bundel"
 
 [[params.socialIcon]]
-icon = "ion-social-linkedin"
-url = "#"
+icon = "ion-social-youtube"
+url = "https://youtube.codewiththeitalians.it"
+
+[[params.socialIcon]]
+icon = "ion-social-twitch"
+url = "https://twitch.codewiththeitalians.it"

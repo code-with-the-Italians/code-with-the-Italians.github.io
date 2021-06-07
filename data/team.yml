@@ -1,38 +1,16 @@
 enable  : true
-title   : MEET THE TEAM
+title   : MEET THE DUO
 members  :
-  - name  : Jonathon Andrew
-    image : images/team/team-1.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Ivan Morgillo
+    image : images/team/ivan.jpg
+    designation : Senior Android Consultant
+    description : I'm a passionate Android developer, a writer, a speaker, a trainer and I'm always looking for new opportunities to learn and share back my findings to the community.
+    twitter     : https://www.twitter.com/hamen
+    linkedIn    : https://www.linkedin.com/ivanmorgillo
   
-  - name  : Jesmin Martina
-    image : images/team/team-2.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-  
-  - name  : Deu John
-    image : images/team/team-3.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-
-  - name  : Anderson Martin
-    image : images/team/team-4.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Sebastiano Poggi
+    image : images/team/seb.jpg
+    designation : Software Engineer and Product Manager at JetBrains
+    description : Software Engineer and Google Developer Expert, I brew tasty code for passion (and at JetBrains to make a living). Formerly working on Android at Novoda, and in industrial automation, I have been doing Android development since 2009. Used to be a Mechatronics Engineering student, with a past history of guerrilla videomaking.
+    twitter     : https://twitter.com/seebrock3r
+    linkedIn    : https://www.linkedin.com/in/sebastianopoggi/
