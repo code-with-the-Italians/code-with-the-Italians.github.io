@@ -98,7 +98,7 @@ a:hover {
 .social-share a {
   font-size: 20px;
   color: #fff;
-  background: #02bdd5;
+  background: #c53d3f;
   padding: 4px 10px;
   display: inline-block;
 }
@@ -139,7 +139,7 @@ a:hover {
   background-size: cover;
   padding: 120px 0 25px 0;
   position: relative;
-  background: #02bdd5;
+  background: #c53d3f;
   color: #fff;
 }
 
@@ -230,7 +230,7 @@ a:hover {
 }
 
 .navbar .nav-item .nav-link:hover {
-  color: #02bdd5 !important;
+  color: #c53d3f !important;
 }
 
 .navbar .nav-item:last-child .nav-link {
@@ -276,7 +276,7 @@ a:hover {
 }
 
 .dropdown-item:hover {
-  color: #02bdd5 !important;
+  color: #c53d3f !important;
   background: transparent;
 }
 
@@ -348,7 +348,7 @@ a:hover {
 }
 
 #call-to-action {
-  background: #02bdd5;
+  background: #c53d3f;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
@@ -378,7 +378,7 @@ a:hover {
 #call-to-action .block .btn-contact {
   background: #fff;
   border: 2px solid #fff;
-  color: #02bdd5;
+  color: #c53d3f;
   padding: 15px 34px;
   margin-top: 20px;
   font-size: 12px;
@@ -394,7 +394,7 @@ a:hover {
 
 #call-to-action .block .btn-contact:hover {
   color: #fff;
-  background: #02bdd5;
+  background: #c53d3f;
 }
 
 #about {
@@ -434,7 +434,7 @@ a:hover {
 }
 
 .about-feature .about-feature-1 {
-  background: #02bdd5;
+  background: #c53d3f;
 }
 
 .about-feature .about-feature-2 {
@@ -565,8 +565,8 @@ figure .buttons {
 }
 
 figure .buttons a:hover {
-  background: #02bdd5;
-  border-color: #02bdd5;
+  background: #c53d3f;
+  border-color: #c53d3f;
 }
 
 figure .buttons a:focus {
@@ -584,7 +584,7 @@ figure figcaption h4 {
 }
 
 figure figcaption h4 a {
-  color: #02bdd5;
+  color: #c53d3f;
 }
 
 figure figcaption p {
@@ -624,7 +624,7 @@ figure figcaption p {
 #feature .icon {
   text-decoration: none;
   color: #fff;
-  background-color: #02bdd5;
+  background-color: #c53d3f;
   height: 100px;
   text-align: center;
   width: 100px;
@@ -636,12 +636,12 @@ figure figcaption p {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  text-shadow: #00a4ba 1px 1px, #00a4ba 2px 2px, #00a4ba 3px 3px, #00a4ba 4px 4px, #00a4ba 5px 5px, #00a4ba 6px 6px, #00a4ba 7px 7px, #00a4ba 8px 8px, #00a4ba 9px 9px, #00a4ba 10px 10px, #00a4ba 11px 11px, #00a4ba 12px 12px, #00a4ba 13px 13px, #00a4ba 14px 14px, #00a4ba 15px 15px, #00a4ba 16px 16px, #00a4ba 17px 17px, #00a4ba 18px 18px, #00a4ba 19px 19px, #00a4ba 20px 20px, #00a4ba 21px 21px, #00a4ba 22px 22px, #00a4ba 23px 23px, #00a4ba 24px 24px, #00a4ba 25px 25px, #00a4ba 26px 26px, #00a4ba 27px 27px, #00a4ba 28px 28px, #00a4ba 29px 29px, #00a4ba 30px 30px, #00a4ba 31px 31px, #00a4ba 32px 32px, #00a4ba 33px 33px, #00a4ba 34px 34px, #00a4ba 35px 35px, #00a4ba 36px 36px, #00a4ba 37px 37px, #00a4ba 38px 38px, #00a4ba 39px 39px, #00a4ba 40px 40px, #00a4ba 41px 41px, #00a4ba 42px 42px, #00a4ba 43px 43px, #00a4ba 44px 44px, #00a4ba 45px 45px, #00a4ba 46px 46px, #00a4ba 47px 47px, #00a4ba 48px 48px, #00a4ba 49px 49px, #00a4ba 50px 50px, #00a4ba 51px 51px, #00a4ba 52px 52px, #00a4ba 53px 53px, #00a4ba 54px 54px, #00a4ba 55px 55px, #00a4ba 56px 56px, #00a4ba 57px 57px, #00a4ba 58px 58px, #00a4ba 59px 59px, #00a4ba 60px 60px, #00a4ba 61px 61px, #00a4ba 62px 62px, #00a4ba 63px 63px, #00a4ba 64px 64px, #00a4ba 65px 65px, #00a4ba 66px 66px, #00a4ba 67px 67px, #00a4ba 68px 68px, #00a4ba 69px 69px, #00a4ba 70px 70px, #00a4ba 71px 71px, #00a4ba 72px 72px, #00a4ba 73px 73px, #00a4ba 74px 74px, #00a4ba 75px 75px, #00a4ba 76px 76px, #00a4ba 77px 77px, #00a4ba 78px 78px, #00a4ba 79px 79px, #00a4ba 80px 80px, #00a4ba 81px 81px, #00a4ba 82px 82px, #00a4ba 83px 83px, #00a4ba 84px 84px, #00a4ba 85px 85px, #00a4ba 86px 86px, #00a4ba 87px 87px, #00a4ba 88px 88px, #00a4ba 89px 89px, #00a4ba 90px 90px, #00a4ba 91px 91px, #00a4ba 92px 92px, #00a4ba 93px 93px, #00a4ba 94px 94px, #00a4ba 95px 95px, #00a4ba 96px 96px, #00a4ba 97px 97px, #00a4ba 98px 98px, #00a4ba 99px 99px, #00a4ba 100px 100px;
+  text-shadow: #901617 1px 1px, #901617 2px 2px, #901617 3px 3px, #901617 4px 4px, #901617 5px 5px, #901617 6px 6px, #901617 7px 7px, #901617 8px 8px, #901617 9px 9px, #901617 10px 10px, #901617 11px 11px, #901617 12px 12px, #901617 13px 13px, #901617 14px 14px, #901617 15px 15px, #901617 16px 16px, #901617 17px 17px, #901617 18px 18px, #901617 19px 19px, #901617 20px 20px, #901617 21px 21px, #901617 22px 22px, #901617 23px 23px, #901617 24px 24px, #901617 25px 25px, #901617 26px 26px, #901617 27px 27px, #901617 28px 28px, #901617 29px 29px, #901617 30px 30px, #901617 31px 31px, #901617 32px 32px, #901617 33px 33px, #901617 34px 34px, #901617 35px 35px, #901617 36px 36px, #901617 37px 37px, #901617 38px 38px, #901617 39px 39px, #901617 40px 40px, #901617 41px 41px, #901617 42px 42px, #901617 43px 43px, #901617 44px 44px, #901617 45px 45px, #901617 46px 46px, #901617 47px 47px, #901617 48px 48px, #901617 49px 49px, #901617 50px 50px, #901617 51px 51px, #901617 52px 52px, #901617 53px 53px, #901617 54px 54px, #901617 55px 55px, #901617 56px 56px, #901617 57px 57px, #901617 58px 58px, #901617 59px 59px, #901617 60px 60px, #901617 61px 61px, #901617 62px 62px, #901617 63px 63px, #901617 64px 64px, #901617 65px 65px, #901617 66px 66px, #901617 67px 67px, #901617 68px 68px, #901617 69px 69px, #901617 70px 70px, #901617 71px 71px, #901617 72px 72px, #901617 73px 73px, #901617 74px 74px, #901617 75px 75px, #901617 76px 76px, #901617 77px 77px, #901617 78px 78px, #901617 79px 79px, #901617 80px 80px, #901617 81px 81px, #901617 82px 82px, #901617 83px 83px, #901617 84px 84px, #901617 85px 85px, #901617 86px 86px, #901617 87px 87px, #901617 88px 88px, #901617 89px 89px, #901617 90px 90px, #901617 91px 91px, #901617 92px 92px, #901617 93px 93px, #901617 94px 94px, #901617 95px 95px, #901617 96px 96px, #901617 97px 97px, #901617 98px 98px, #901617 99px 99px, #901617 100px 100px;
 }
 
 .wrapper_404 h1 {
   font-size: 200px;
-  color: #02bdd5;
+  color: #c53d3f;
   line-height: 1;
 }
 
@@ -703,15 +703,15 @@ article {
 }
 
 .blog-content .btn-details {
-  color: #02bdd5;
+  color: #c53d3f;
   padding: 0;
-  background: #02bdd5;
+  background: #c53d3f;
   color: #fff;
   padding: 8px 18px;
   border-radius: 0;
   margin-top: 15px;
   border: 1px solid #fff;
-  box-shadow: 0px 0px 0px 1px #02bdd5;
+  box-shadow: 0px 0px 0px 1px #c53d3f;
 }
 
 .blog-post-image {
@@ -791,7 +791,7 @@ article {
 }
 
 .sidebar .recent-post ul li a:hover {
-  color: #02bdd5;
+  color: #c53d3f;
 }
 
 .sidebar .recent-post time {
@@ -815,9 +815,9 @@ article {
 #contact-section .contact-form .btn-send {
   color: #fff;
   outline: none;
-  background: #02bdd5;
+  background: #c53d3f;
   transition: all linear .2s;
-  border-color: #02bdd5;
+  border-color: #c53d3f;
   border-radius: 0;
 }
 
@@ -867,7 +867,7 @@ article {
 #contact-section .email i,
 #contact-section .phone i {
   font-size: 45px;
-  color: #02bdd5;
+  color: #c53d3f;
 }
 
 #contact-section .address h5,
@@ -952,7 +952,7 @@ article {
 }
 
 .single-post .media .media-body a {
-  color: #02bdd5;
+  color: #c53d3f;
   font-size: 12px;
 }
 
@@ -978,7 +978,7 @@ article {
 }
 
 .single-post .post-comment .btn-send {
-  background: #02bdd5;
+  background: #c53d3f;
   color: #fff;
   border-radius: 0;
 }
@@ -1030,7 +1030,7 @@ article {
 
 .btn-work {
   color: #fff;
-  background: #02bdd5;
+  background: #c53d3f;
   border-radius: 0;
 }
 
@@ -1044,7 +1044,7 @@ article {
 
 #product-showcase-banner .block h2 {
   font-size: 40px;
-  color: #02bdd5;
+  color: #c53d3f;
   margin-bottom: 20px;
   margin-top: 0;
 }
@@ -1168,7 +1168,7 @@ article {
 
 #related-items .block h4 span {
   float: right;
-  color: #02bdd5;
+  color: #c53d3f;
 }
 
 #related-items .block .img-overly {
@@ -1209,7 +1209,7 @@ article {
 
 .service-page .service-parts .block i {
   font-size: 35px;
-  color: #02bdd5;
+  color: #c53d3f;
 }
 
 .service-page .service-parts .block p {
@@ -1245,7 +1245,7 @@ article {
 }
 
 .team-member h3 {
-  color: #02bdd5;
+  color: #c53d3f;
   margin-bottom: 0;
   font-size: 20px;
 }
@@ -1255,7 +1255,7 @@ article {
 }
 
 .team-member .social-icons a {
-  background: #02bdd5;
+  background: #c53d3f;
   color: #fff;
   padding: 4px 8px;
   display: inline-block;
@@ -1278,7 +1278,7 @@ article {
 }
 
 #footer .copyright a {
-  color: #02bdd5;
+  color: #c53d3f;
 }
 
 #footer .social {
@@ -1293,11 +1293,11 @@ article {
 
 #footer .social li a {
   font-size: 22px;
-  color: #02bdd5;
+  color: #c53d3f;
 }
 
 .cd-headline.slide .cd-words-wrapper {
-  color: #02bdd5;
+  color: #c53d3f;
 }
 
 ul.social-icons {
