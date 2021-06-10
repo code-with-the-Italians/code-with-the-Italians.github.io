@@ -37,22 +37,28 @@ description = "WE BUILD APPS IN THE WILD, STREAMING OUR LIVE CODING SESSIONS ON 
 # button
 btn     = true
 btnText = "Watch live"
-btnURL  = "https://twitch.codewiththeitalians.it"
+btnURL = "https://twitch.codewiththeitalians.it"
 
 # flip text
 [[params.banner.flipText]]
-title   = "ANDROID"
+title = "ANDROID"
 [[params.banner.flipText]]
-title   = "COMPOSE"
+title = "COMPOSE"
 [[params.banner.flipText]]
-title   = "KOTLIN"
+title = "KOTLIN"
+[[params.banner.flipText]]
+title = "MOBILE APPS"
+[[params.banner.flipText]]
+title = "DESKTOP APPS"
+[[params.banner.flipText]]
+title = "LAUGHS WITH FRIENDS"
 
 # Homepage About Section
 [params.about]
-enable  = true
-title   = "Why / What / How"
+enable = true
+title = "Why / What / How"
 content = "We are always looking for new things to learn, share with the community and expand our comfort zone.</br></br>We wanted to dive into Jetpack Compose, learning how it's differnt frome the current Android standard way of building an app.</br></br>We want to make it clear that we are learning as we go so we are streaming our live coding sessions."
-image   = "images/about/about.jpg"
+image = "images/about/about.jpg"
 
 # Call to Action
 [params.cta]
