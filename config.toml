@@ -23,9 +23,13 @@ name = "Projects"
 url = "portfolio"
 weight = 4
 [[menu.main]]
+name = "Shop"
+url = "https://shop.codewiththeitalians.it/"
+weight = 5
+[[menu.main]]
 name = "Privacy Policy"
 url = "privacy"
-weight = 5
+weight = 6
 
 # Site Params
 [params]
