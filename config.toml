@@ -22,7 +22,10 @@ weight = 3
 name = "Projects"
 url = "portfolio"
 weight = 4
-
+[[menu.main]]
+name = "Privacy Policy"
+url = "privacy"
+weight = 5
 
 # Site Params
 [params]
