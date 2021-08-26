@@ -1,5 +1,10 @@
-chore/.idea/modules.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
 /.idea/.gitignore
+/.idea/code-with-the-italians_website.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/misc.xml
 /.idea/modules.xml
+/.idea/runConfigurations.xml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/vcs.xml
+chore/.idea/modules.xml
+public/

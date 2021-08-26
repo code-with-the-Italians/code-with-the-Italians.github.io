@@ -18,6 +18,11 @@ weight = 2
 name = "Blog"
 url = "blog"
 weight = 3
+[[menu.main]]
+name = "Projects"
+url = "portfolio"
+weight = 4
+
 
 # Site Params
 [params]
@@ -27,8 +32,8 @@ dateFormat = "6 January 2006"
 # Meta data
 description = "We code live on Twitch, learning and sharing as we go"
 author = "Themefisher"
-# Google Analitycs
-googleAnalitycsID = "G-6GC9HZ94VP"
+# Google Analytics
+googleAnalyticsID = "G-6GC9HZ94VP"
 # contact form action
 contactFormAction = "#" # contact form works with https://formspree.io
 
@@ -74,7 +79,7 @@ btnURL  = "/contact"
 
 # Portfolio Section On Homepage
 [params.portfolio]
-enable  = false
+enable  = true
 title   = "Projects"
 subtitle= "What are we working on at the moment and what we did in the past"
 
