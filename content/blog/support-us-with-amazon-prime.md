@@ -11,7 +11,7 @@ tags: ["support", "amazon-prime"]
 
 If you have an Amazon Prime subscription, you also have *Amazon Gaming* 🎊
 
-First thing to do is to [sign in here](http://bit.ly/cwi-prime):
+First thing to do is to [sign in here](https://bit.ly/cwi-prime):
 
 ![](/images/blog/amazon_1.png)
 
@@ -27,9 +27,8 @@ This menu will allow you to link your accounts 💪
 
 # Step 3 - Subscribe to our Twitch channel
 
-Now that your accounts are connected, head to our [Twitch page](https://twitch.codewiththeitalians.it) and click the "**
-Subscribe**" button. In the menu that pops up you can specify that you want to subscribe using your Amazon Prime and we
-are done!! 🎊💪
+Now that your accounts are connected, head to our [Twitch page](https://cwti.link/twitch) and click the "**
+Subscribe**" button. In the menu that pops up you can specify that you want to subscribe using your Amazon Prime and we are done!! 🎊💪
 
 # Step 4 - Enjoy
 

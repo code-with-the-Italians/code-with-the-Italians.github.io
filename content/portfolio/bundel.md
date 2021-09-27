@@ -19,19 +19,18 @@ those fun things we all get through when we're prototyping something. But it wil
 
 ## Why this app, why open source
 
-This project was born out of an idea [Ivan Morgillo](https://github.com/hamen) and [Sebastiano Poggi](https://github.com/rock3r) had: 
-> We wanted to learn
-using [Jetpack Compose](https://developer.android.com/jetpack/compose), and maybe catch up on some other cool Android stuff.
+This project was born out of an idea [Ivan Morgillo](https://github.com/hamen) and [Sebastiano Poggi](https://github.com/rock3r) had:
 
-But side projects never
-really get completed, and at the same time, just putting the code out there wouldn't really give much insight into the _how_ and _why_ things are done
-a certain way. Open source is a great way to sharing knowledge, and this being a side project for us, that was a given. But making the sources
-available in and by itself isn't enough: you miss the context, get presented with a final solution to a largely unknown problem. Just think how many
-times you've wondered why some code you were reading was done in that way and not in another!
+> We wanted to learn to use [Jetpack Compose](https://developer.android.com/jetpack/compose), and maybe catch up on some other cool Android stuff.
+
+But side projects never really get completed, and at the same time, just putting the code out there wouldn't really give much insight into the _how_
+and _why_ things are done a certain way. Open source is a great way to sharing knowledge, and this being a side project for us, that was a given. But
+making the sources available in and by itself isn't enough: you miss the context, get presented with a final solution to a largely unknown problem.
+Just think how many times you've wondered why some code you were reading was done in that way and not in another!
 
 So, we decided we'd share the _entire_ process. We stream ourselves, and some awesome guests, coding on the app, learning as we go, making mistakes
 and fixing them. We've rather unoriginally named this project
-**Code with the Italians**, as both Ivan and myself come from the country that brought you pizza (oh, and by the way, you're welcome!).
+**Code with the Italians**, as both Ivan and I come from the country that brought you pizza (oh, and by the way, you're welcome!).
 
 This app, Bundel, is our first in this live coding project of ours — who knows what will come next.
 
@@ -47,7 +46,7 @@ The good news is, it's really easy to do! To keep up to date with all that's hap
 [follow @codewiththeita](https://twitter.com/codewiththeita) on Twitter. If Twitter isn't your thing — we understand! — we also make
 announcements [on Telegram](https://t.me/code_with_the_italians).
 
-We live stream [on Twitch](http://bit.ly/cwi-twitch) and [on YouTube](http://bit.ly/cwi-yt). You can also find the whole archive of previous streams
+We live stream [on Twitch](https://cwti.link/twitch) and [on YouTube](https://cwti.link/yt). You can also find the whole archive of previous streams
 over on YouTube.
 
 We regularly stream ourselves coding on this app. We are _generally_ live at these times:
@@ -56,12 +55,12 @@ We regularly stream ourselves coding on this app. We are _generally_ live at the
 * Sundays, at 17:00 CEST / 11 AM EST / 8 AM PST
 
 Dates and times may vary though, so watch out for announcements. Or, you know, add
-[this nifty iCal subscription](http://bit.ly/cwi-ical) to your calendar. You can find some instructions
+[this nifty iCal subscription](https://cwti.link/calendar) to your calendar. You can find some instructions
 [here](https://twitter.com/codewiththeita/status/1389220980506173445).
 
 ### I want to contribute
 
-Find the [guide to contributing here](CONTRIBUTING.md)
+Find the guide to contributing [here](https://github.com/rock3r/bundel/tree/main/CONTRIBUTING.md).
 
 ## Acknowledgements
 
@@ -82,7 +81,7 @@ in their brand new DevLibrary.</small>
 
 ## License
 
-Bundel is licensed under the [Apache 2.0 license](LICENSE).
+Bundel is licensed under the [Apache 2.0 license](https://github.com/rock3r/bundel/tree/main/LICENSE).
 
 ```
    Copyright 2021 the Bundel contributors
