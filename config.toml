@@ -1,4 +1,4 @@
-baseURL = "https://code-with-the-italians.github.io"
+baseURL = "https://codewiththeitalians.it"
 languageCode = "en-us"
 title = "Code with the Italians"
 theme = "timer-hugo"
