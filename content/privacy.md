@@ -1,5 +1,5 @@
 ---
-title: "Privacy"
+title: "Privacy policy"
 date: 2021-08-26T21:09:05+02:00
 ---
 
@@ -16,7 +16,7 @@ This Privacy Policy applies only to our online activities and is valid for visit
 ## Consent
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
 
-## Information e collect
+## Information we collect
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 

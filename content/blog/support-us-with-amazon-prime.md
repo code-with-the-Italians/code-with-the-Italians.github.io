@@ -1,10 +1,7 @@
 ---
 title: "Support the show for free with Amazon Prime"
-date: 2021-06-10T08:30:40+02:00
-type: post
-image: https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg
-author: Themefisher
-tags: ["support", "amazon-prime"]
+date: 2021-06-10T08:30:40+02:00 type: post image: https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg
+author: Code with the Italians tags: ["support", "amazon-prime"]
 ---
 
 # Step 1 - Login on your Amazon Gaming page

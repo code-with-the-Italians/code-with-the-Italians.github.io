@@ -7,10 +7,10 @@ members  :
     description : I'm a passionate Android developer, a writer, a speaker, a trainer and I'm always looking for new opportunities to learn and share back my findings to the community.
     twitter     : https://www.twitter.com/hamen
     linkedIn    : https://www.linkedin.com/ivanmorgillo
-  
-  - name  : Sebastiano Poggi
-    image : images/team/seb.jpg
-    designation : Software Engineer and Product Manager at JetBrains
-    description : Software Engineer and Google Developer Expert, I brew tasty code for passion (and at JetBrains to make a living). Formerly working on Android at Novoda, and in industrial automation, I have been doing Android development since 2009. Used to be a Mechatronics Engineering student, with a past history of guerrilla videomaking.
-    twitter     : https://twitter.com/seebrock3r
-    linkedIn    : https://www.linkedin.com/in/sebastianopoggi/
+
+  - name: Sebastiano Poggi
+    image: images/team/seb.jpg
+    designation: Team Lead and Product Manager at JetBrains
+    description: Team Lead and Google Developer Expert, I brew tasty code for passion (and at JetBrains to make a living). Formerly working on Android at Novoda, and in industrial automation, I have been doing Android development since 2009. Used to be a Mechatronics Engineering student, with a past history of guerrilla videomaking.
+    twitter: https://twitter.com/seebrock3r
+    linkedIn: https://www.linkedin.com/in/sebastianopoggi/

@@ -1,12 +1,9 @@
 ---
-title: "Bundle"
-type: portfolio
-date: 2021-04-27T16:54:54+06:00
-description : "This is meta description"
-caption: Digital Wellbeing App
-image: images/portfolio/bundel.png
-category: ["app","android","opensource","jetpack compose"]
-liveLink: https://github.com/rock3r/bundel
+title: "Bundel"
+type: portfolio date: 2021-04-27T16:54:54+06:00 description: "Bundel is a digital wellbeing Android app, helping you to focus by grouping up
+notifications and only releasing them in batches."
+caption: Digital Wellbeing App image: images/portfolio/bundel.jpg category: ["app","android","opensource","jetpack compose"]
+liveLink: https://github.com/code-with-the-italian/bundel
 ---
 Bundel is a **digital wellbeing** Android app, helping you to focus by grouping up notifications and only releasing them in batches, at set times.
 This minimises context switching and improves productivity, while decreasing the impulse to continuously check your phone.
@@ -19,10 +16,8 @@ those fun things we all get through when we're prototyping something. But it wil
 
 ## Why this app, why open source
 
-This project was born out of an idea [Ivan Morgillo](https://github.com/hamen) and [Sebastiano Poggi](https://github.com/rock3r) had:
-
-> We wanted to learn to use [Jetpack Compose](https://developer.android.com/jetpack/compose), and maybe catch up on some other cool Android stuff.
-
+This project was born out of an idea [Ivan Morgillo](https://github.com/hamen) and [Sebastiano Poggi](https://github.com/rock3r)
+had: we wanted to learn using [Jetpack Compose](https://developer.android.com/jetpack/compose), and maybe catch up on some other cool Android stuff.
 But side projects never really get completed, and at the same time, just putting the code out there wouldn't really give much insight into the _how_
 and _why_ things are done a certain way. Open source is a great way to sharing knowledge, and this being a side project for us, that was a given. But
 making the sources available in and by itself isn't enough: you miss the context, get presented with a final solution to a largely unknown problem.
@@ -30,37 +25,38 @@ Just think how many times you've wondered why some code you were reading was don
 
 So, we decided we'd share the _entire_ process. We stream ourselves, and some awesome guests, coding on the app, learning as we go, making mistakes
 and fixing them. We've rather unoriginally named this project
-**Code with the Italians**, as both Ivan and I come from the country that brought you pizza (oh, and by the way, you're welcome!).
+**Code with the Italians**, as both Ivan and myself come from the country that brought you pizza (oh, and by the way, you're welcome!).
 
 This app, Bundel, is our first in this live coding project of ours — who knows what will come next.
 
 
-
-<a href="https://twitter.com/codewiththeita" target=_blank>
-  <img alt="Code with the Italians logo" width="512px" src="https://github.com/rock3r/Bundel/raw/main/art/CWI-logo-horizontal.svg"/>
+<a href="https://cwti.link/twitter" target=_blank>
+  <img alt="Code with the Italians logo" width="512px" src="https://github.com/code-with-the-italians/Bundel/raw/main/art/CWI-logo-horizontal.svg"/>
 </a>
 
 ### I want to watch y'all crazies code
 
 The good news is, it's really easy to do! To keep up to date with all that's happening, you should
-[follow @codewiththeita](https://twitter.com/codewiththeita) on Twitter. If Twitter isn't your thing — we understand! — we also make
-announcements [on Telegram](https://t.me/code_with_the_italians).
+[follow @codewiththeita](https://cwti.link/twitter) on Twitter. If Twitter isn't your thing — we understand! — we also make
+announcements [on Telegram](https://cwti.link/telegram).
 
 We live stream [on Twitch](https://cwti.link/twitch) and [on YouTube](https://cwti.link/yt). You can also find the whole archive of previous streams
 over on YouTube.
 
 We regularly stream ourselves coding on this app. We are _generally_ live at these times:
 
-* Wednesdays, at 18:30 CEST / 12:30 PM EST / 9:30 AM PST
-* Sundays, at 17:00 CEST / 11 AM EST / 8 AM PST
+* Wednesdays at 18:30 CE(S)
+  T ([other timezone?](https://www.timeanddate.com/worldclock/converter.html?hour=18&min=30&p1=215&p2=136&p3=tz_et&p4=tz_pt&p5=tz_ist&p6=tz_jst))
+* Sundays at 17:00 CE(S)
+  T ([other timezone?](https://www.timeanddate.com/worldclock/converter.html?hour=17&p1=215&p2=136&p3=tz_et&p4=tz_pt&p5=tz_ist&p6=tz_jst))
 
 Dates and times may vary though, so watch out for announcements. Or, you know, add
-[this nifty iCal subscription](https://cwti.link/calendar) to your calendar. You can find some instructions
+[this nifty iCal subscription](https://cwti.link/cal) to your calendar. You can find some instructions
 [here](https://twitter.com/codewiththeita/status/1389220980506173445).
 
 ### I want to contribute
 
-Find the guide to contributing [here](https://github.com/rock3r/bundel/tree/main/CONTRIBUTING.md).
+Find the guide to contributing [here](https://github.com/code-with-the-italians/bundel/blob/main/CONTRIBUTING.md).
 
 ## Acknowledgements
 
@@ -81,7 +77,7 @@ in their brand new DevLibrary.</small>
 
 ## License
 
-Bundel is licensed under the [Apache 2.0 license](https://github.com/rock3r/bundel/tree/main/LICENSE).
+Bundel is licensed under the [Apache 2.0 license](https://github.com/code-with-the-italians/bundel/blob/main/LICENSE).
 
 ```
    Copyright 2021 the Bundel contributors
@@ -90,7 +86,7 @@ Bundel is licensed under the [Apache 2.0 license](https://github.com/rock3r/bund
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+       https://www.apache.org/licenses/LICENSE-2.0
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
