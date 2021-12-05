@@ -1,8 +1,11 @@
 ---
 title: "Bundel"
-type: portfolio date: 2021-04-27T16:54:54+06:00 description: "Bundel is a digital wellbeing Android app, helping you to focus by grouping up
-notifications and only releasing them in batches."
-caption: Digital Wellbeing App image: images/portfolio/bundel.jpg category: ["app","android","opensource","jetpack compose"]
+type: portfolio
+date: 2021-04-27T16:54:54+06:00
+description: "Bundel is a digital wellbeing Android app, helping you to focus by grouping up notifications and only releasing them in batches."
+caption: Digital Wellbeing App
+image: images/portfolio/bundel.jpg
+category: ["app","android","opensource","jetpack compose"]
 liveLink: https://github.com/code-with-the-italian/bundel
 ---
 Bundel is a **digital wellbeing** Android app, helping you to focus by grouping up notifications and only releasing them in batches, at set times.

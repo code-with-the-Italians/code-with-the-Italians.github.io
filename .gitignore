@@ -9,4 +9,5 @@ public/
 .idea/dataSources/
 .idea/dataSources.local.xml
 .idea/git_toolbox_prj.xml
+.idea/jsLibraryMappings.xml
 *.iml
