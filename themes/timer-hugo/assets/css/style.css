@@ -157,6 +157,15 @@ body {
   text-align: center;
 }
 
+.global-page-header .block h1,
+.global-page-header .block h2,
+.global-page-header .block h3,
+.global-page-header .block h4,
+.global-page-header .block h5,
+.global-page-header .block h6 {
+  margin-top: .5em;
+}
+
 .works-fit {
   padding: 40px 0;
 }
