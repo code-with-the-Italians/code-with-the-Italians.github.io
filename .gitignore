@@ -1,10 +1,11 @@
-/.idea/.gitignore
-/.idea/code-with-the-italians_website.iml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/runConfigurations.xml
-/.idea/sonarlint/issuestore/index.pb
-/.idea/vcs.xml
-chore/.idea/modules.xml
 public/
+.hugo_build.lock
+
+.idea/shelf/
+.idea/workspace.xml
+# Editor-based HTTP Client requests
+.idea/httpRequests/
+# Datasource local storage ignored files
+.idea/dataSources/
+.idea/dataSources.local.xml
+*.iml
