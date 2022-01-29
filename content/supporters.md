@@ -13,8 +13,11 @@ title: "Supporters"
  * Rauel
 
 #### Bruschetta ❤️❤️❤️ tier
- * Ko-fi Supporter
+ * Sasha
  * Souleymane Sidibé
+
+#### Pizza slice ❤️❤️ tier
+ * Juhani Lehtimäki
 
 ### Ko-Fi Donors (EUR 25 and up)
 
