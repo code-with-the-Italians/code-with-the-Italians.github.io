@@ -1,13 +1,23 @@
 public/
 .hugo_build.lock
 
-.idea/shelf/
-.idea/workspace.xml
-# Editor-based HTTP Client requests
-.idea/httpRequests/
-# Datasource local storage ignored files
-.idea/dataSources/
-.idea/dataSources.local.xml
-.idea/git_toolbox_prj.xml
-.idea/jsLibraryMappings.xml
+# OSX
+*.DS_Store
+
+# IDEA/Android Studio ignores
 *.iml
+*.ipr
+*.iws
+/.idea/*
+
+# IDEA/Android Studio Ignore exceptions
+!/.idea/vcs.xml
+!/.idea/fileTemplates/
+!/.idea/inspectionProfiles/
+!/.idea/scopes/
+!/.idea/codeStyles
+!/.idea/runConfigurations
+!/.idea/.name
+!/.idea/encodings.xml
+!/.idea/copyright/
+!/.idea/compiler.xml
