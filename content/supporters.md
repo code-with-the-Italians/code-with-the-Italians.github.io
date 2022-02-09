@@ -19,6 +19,7 @@ title: "Supporters"
 
 #### Pizza slice ❤️❤️ tier
  * Juhani Lehtimäki
+ * maiatoday
 
 ### Ko-Fi Donors (EUR 25 and up)
 
