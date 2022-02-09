@@ -8,6 +8,7 @@ title: "Supporters"
 
 #### Everything pizza 🍕🍕🍕🍕🍕 tier
  * Mark Allison
+ * Tudor Luca
 
 #### Piadina ❤️❤️❤️❤️ tier
  * Rauel
