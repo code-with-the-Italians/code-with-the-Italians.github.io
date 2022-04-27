@@ -27,8 +27,8 @@ name = "Supporters"
 url = "supporters"
 weight = 5
 [[menu.main]]
-name = "Shop"
-url = "https://shop.codewiththeitalians.it/"
+name = "Merch"
+url = "https://cwti.link/merch"
 weight = 6
 [[menu.main]]
 name = "Privacy Policy"
@@ -72,6 +72,8 @@ title = "MOBILE APPS"
 title = "DESKTOP APPS"
 [[params.banner.flipText]]
 title = "LAUGHS WITH FRIENDS"
+[[params.banner.flipText]]
+title = "SEB BREAKING STUFF"
 
 # Homepage About Section
 [params.about]
