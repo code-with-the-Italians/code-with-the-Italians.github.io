@@ -2,21 +2,16 @@
 title: "Supporters"
 ---
 
-# Ko-Fi supporters
-
 ### Ko-Fi Subscribers ("pizza slice" tier and up)
-
 #### Everything pizza 🍕🍕🍕🍕🍕 tier
+ * Alex Styl
  * Mark Allison
  * Tudor Luca
-
 #### Piadina ❤️❤️❤️❤️ tier
- * Rauel
-
-#### Bruschetta ❤️❤️❤️ tier
  * Sasha
- * Souleymane Sidibé
-
+ * Rauel
+#### Bruschetta ❤️❤️❤️ tier
+ * Mike N.
 #### Pizza slice ❤️❤️ tier
  * Juhani Lehtimäki
  * maiatoday
