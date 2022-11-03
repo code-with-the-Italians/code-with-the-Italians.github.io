@@ -7,7 +7,7 @@ title: "Supporters"
  * Mark Allison
  * Tudor Luca
 #### Piadina ❤️❤️❤️❤️ tier
- * Ko-fi Supporter
+ * Sasa Sekulic
  * Rauel
 #### Bruschetta ❤️❤️❤️ tier
  * Ed George
