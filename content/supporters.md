@@ -4,20 +4,16 @@ title: "Supporters"
 
 ### Ko-Fi Subscribers ("pizza slice" tier and up)
 #### Everything pizza 🍕🍕🍕🍕🍕 tier
- * Alex Styl
  * Mark Allison
  * Tudor Luca
 #### Piadina ❤️❤️❤️❤️ tier
- * Sasha
+ * Ko-fi Supporter
  * Rauel
 #### Bruschetta ❤️❤️❤️ tier
+ * Ed George
+ * Felipe Joglar
+ * JordanDixon
  * Mike N.
 #### Pizza slice ❤️❤️ tier
  * Juhani Lehtimäki
  * maiatoday
-
-### Ko-Fi Donors (EUR 25 and up)
-
-#### EUR 50 and up
-
-* Alex Styl
